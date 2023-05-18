@@ -1,3 +1,4 @@
+
 //Baekjoon Online Judge #1330 두 수 비교하기
 
 #include <stdio.h>

@@ -1,0 +1,35 @@
+//Baekjoon Online Judge #1330 두 수 비교하기
+
+#include <stdio.h>
+
+int main()
+{
+    int a, b;
+    scanf("%d %d", &a, &b);
+    
+    if (a>b)
+        printf(">");
+    else if (a==b)
+        printf("==");
+    else
+        printf("<");
+    
+    return 0;
+}
+---------------------------
+//Baekjoon Online Judge #2753 윤년
+
+#include <stdio.h>
+
+int main(void)
+{
+    int year;
+    scanf("%d", &year);
+    
+    if (((year % 4 == 0) && (year % 100 != 0)) || year % 400 == 0)
+        printf("1");
+    else
+        printf("0");
+    
+    return 0;
+}
