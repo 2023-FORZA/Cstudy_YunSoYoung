@@ -1,3 +1,0 @@
-﻿  1_Lab02_1.c
-C:\Users\nusoi\OneDrive\바탕 화면\FORZA\1_Lab02_1\1_Lab02_1\1_Lab02_1.c(6,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  1_Lab02_1.vcxproj -> C:\Users\nusoi\OneDrive\바탕 화면\FORZA\1_Lab02_1\x64\Debug\1_Lab02_1.exe
